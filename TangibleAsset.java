@@ -1,4 +1,4 @@
-public static void main(String[] args){
+public abstract class main(String[] args){
   private String name;
   private int price;
   private String color;
